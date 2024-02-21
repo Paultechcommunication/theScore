@@ -1,0 +1,15 @@
+2024-02-20 17:50:22 INFO  ApplicationBase:28 - App Configurations Loaded
+2024-02-20 17:50:22 INFO  ApplicationBase:30 - Driver Capabilities Loaded
+2024-02-20 17:50:45 INFO  ApplicationBase:32 - Driver initiated
+2024-02-20 17:50:46 INFO  ApplicationBase:40 - Test Setup Started
+2024-02-20 17:50:48 INFO  ApplicationBase:42 - Home Screen loaded
+2024-02-20 17:51:03 INFO  ApplicationBase:55 - Navigated to Leagues screen
+2024-02-20 17:51:07 INFO  ApplicationBase:65 - Verified Leagues screen
+2024-02-20 17:51:18 INFO  ApplicationBase:54 - NFL Page opens successfully
+2024-02-20 17:51:21 INFO  ApplicationBase:82 - Navigated to the NFLLeaguesScreen
+2024-02-20 17:51:22 INFO  ApplicationBase:88 - NFL Page opens successfully
+2024-02-20 17:51:24 INFO  ApplicationBase:123 - Verified  NFLLeaguesScreen
+2024-02-20 17:51:31 INFO  ApplicationBase:167 - Navigated to the NFLLeadersScreen
+2024-02-20 17:51:35 INFO  ApplicationBase:217 - Navigated to the NFLLeadersScreen
+2024-02-20 17:51:44 INFO  ApplicationBase:265 - Navigated Back to the Leaguescreen
+2024-02-20 17:51:46 INFO  ApplicationBase:309 - Verified Leagues screen

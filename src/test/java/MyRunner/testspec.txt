@@ -1,0 +1,12 @@
+
+Scnario: Verifying the chosen League's  Leaders page can be Navigated successfully
+
+1) Loading the  Home Screen and initializing the elements
+2) Clicking on the League menu and Navigating  to Leagues screen
+3) Verifying the League Screen
+4) Click on the chosen League (Team) and Navigating to the corresponding League page.
+5) Verifying the corresponding League Page 
+6) Click on the Leader tab and Navigating to the corresponding League Leaders page.
+7) Verifying the corresponding League Leaders Page 
+8) Click on the Back button and Navigating back to the Leaguescreen
+9) End of Test
